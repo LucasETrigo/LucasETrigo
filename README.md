@@ -1,13 +1,13 @@
 Hi 👋 My name is Lucas Trigo
-============================
+================================
 
-Full Stack Web Developer
-------------------------
+Front End | BlockChain Developer
+--------------------------------
 
 Front End & BlockChain Developer with a lot of passion for finding and creating logical yet creative solutions to complex problems using various different technologies like: 
-| Front-End | --> React Js, Next.Js, Three Js, Three Fiber, Redux, Firebase.
-| Blockchain (Web3) | --> Solidity, Rust, Hardhat, OpenZeppelin, Ethers, Polygon network, Quicknode, ❤️Solana❤️.
-
+* | Front-End | --> React Js, Next.Js, Three Js, Three Fiber, Redux, Firebase.
+* | Blockchain (Web3) | --> Solidity, Rust, Hardhat, OpenZeppelin, Ethers, Polygon network, Quicknode, ❤️Solana❤️.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [my personal website](http://lucastrigo.com)
 * ✉️  You can contact me at [lucasetrigo@gmail.com](mailto:lucasetrigo@gmail.com)
@@ -46,4 +46,3 @@ Front End & BlockChain Developer with a lot of passion for finding and creating 
 
 <a href="http://www.github.com/LucasETrigo"><img src="https://activity-graph.herokuapp.com/graph?username=LucasETrigo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/LucasETrigo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasETrigo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
