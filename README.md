@@ -4,7 +4,9 @@ Hi 👋 My name is Lucas Trigo
 Full Stack Web Developer
 ------------------------
 
-Full stack developer with a lot of passion for finding and creating logical yet creative solutions to complex problems using various different technologies like: HTML, CSS, Javascript (Typescript), AWS, and React.
+Front End & BlockChain Developer with a lot of passion for finding and creating logical yet creative solutions to complex problems using various different technologies like: 
+| Front-End | --> React Js, Next.Js, Three Js, Three Fiber, Redux, Firebase.
+| Blockchain (Web3) | --> Solidity, Rust, Hardhat, OpenZeppelin, Ethers, Polygon network, Quicknode, ❤️Solana❤️.
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [my personal website](http://lucastrigo.com)
