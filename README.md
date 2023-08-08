@@ -6,7 +6,7 @@ Front End | BlockChain Developer
 
 Front End & BlockChain Developer with a lot of passion for finding and creating logical yet creative solutions to complex problems using various different technologies like: 
 * | Front-End | --> React Js, Next.Js, Three Js, Three Fiber, Redux, Firebase.
-* | Blockchain (Web3) | --> Solidity, Rust, Hardhat, OpenZeppelin, Ethers, Polygon network, Quicknode, ❤️Solana❤️.
+* | Blockchain (Web3) | --> Solidity, Rust, Hardhat, OpenZeppelin, Ethers, Polygon network, Quicknode, Solana.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [my personal website](http://lucastrigo.com)
