@@ -1,7 +1,7 @@
-Hi 👋 My name is Lucas Trigo
+Hi 👋 My name is Lucas
 ================================
 
-Front End Developer
+Frontend & Blockchain  Developer
 --------------------------------
 
 I'm a Full Stack Developer with a strong passion for frontend development. With 8 months of hands-on experience as a Frontend Web Developer at Escola Sorvete, I've had the opportunity to immerse myself in the world of web development.
@@ -10,7 +10,7 @@ I am a Dev with a lot of passion for finding and creating logical yet creative s
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [lucasetrigo@gmail.com](mailto:lucasetrigo@gmail.com)
-* 🤝  I'm open to collaborating on Front End - Back End projects.
+* 🤝  I'm open to collaborating on projects.
 
 ### Skills
 
