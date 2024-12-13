@@ -1,7 +1,7 @@
 Hi 👋 My name is Lucas
 ================================
 
-Frontend & Blockchain  Developer
+Blockchain & FullStack  Developer
 --------------------------------
 
 I'm a Full Stack Developer with a strong passion for frontend development. With 8 months of hands-on experience as a Frontend Web Developer at Escola Sorvete, I've had the opportunity to immerse myself in the world of web development.
