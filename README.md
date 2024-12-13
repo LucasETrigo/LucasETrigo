@@ -8,9 +8,6 @@ I'm a Full Stack Developer with a strong passion for frontend development. With 
 I am a Dev with a lot of passion for finding and creating logical yet creative solutions to complex problems using various different technologies. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* 🌍  I'm based in Argentina
-* ✉️  You can contact me at [lucasetrigo@gmail.com](mailto:lucasetrigo@gmail.com)
-* 🤝  I'm open to collaborating on projects.
 
 ### Skills
 
